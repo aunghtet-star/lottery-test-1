@@ -1,6 +1,6 @@
 # Zenith Ledger
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/aunghtet-star/lottery-test-1)
 
 A high-performance system for game agents to manage sales, track finances, and place bets with maximum speed and efficiency.
 
@@ -88,4 +88,4 @@ Wrangler will handle the process of building the application, uploading the asse
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/aunghtet-star/lottery-test-1)
